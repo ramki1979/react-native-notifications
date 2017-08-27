@@ -50,11 +50,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-notifications.git"
+    "url": "https://github.com/ramki1979/react-native-notifications.git"
   },
-  "homepage": "https://github.com/wix/react-native-notifications",
+  "homepage": "https://github.com/ramki1979/react-native-notifications",
   "bugs": {
-    "url": "https://github.com/wix/react-native-notifications/issues"
+    "url": "https://github.com/ramki1979/react-native-notifications/issues"
   },
   "babel": {
     "presets": [
